@@ -1,0 +1,62 @@
+[
+  {
+    "employeeID": 1,
+    "name": "Tony",
+    "salary": "$75000",
+    "departmentName": "Tech"
+  },
+  {
+    "employeeID": 2,
+    "name": "Max",
+    "salary": "$75000",
+    "departmentName": "Tech"
+  },
+  {
+    "employeeID": 3,
+    "name": "Alex",
+    "salary": "$75000",
+    "departmentName": "Tech"
+  },
+  {
+    "employeeID": 4,
+    "name": "Xavier",
+    "salary": "$75000",
+    "departmentName": "Tech"
+  },
+  {
+    "employeeID": 5,
+    "name": "Tom",
+    "salary": "$75000",
+    "departmentName": "Tech"
+  },
+  {
+    "employeeID": 6,
+    "name": "John",
+    "salary": "$75000",
+    "departmentName": "Tech"
+  },
+  {
+    "employeeID": 7,
+    "name": "James",
+    "salary": "$75000",
+    "departmentName": "Tech"
+  },
+  {
+    "employeeID": 8,
+    "name": "June",
+    "salary": "$75000",
+    "departmentName": "Tech"
+  },
+  {
+    "employeeID": 9,
+    "name": "Liam",
+    "salary": "$75000",
+    "departmentName": "Tech"
+  },
+  {
+    "employeeID": 10,
+    "name": "Oscar",
+    "salary": "$75000",
+    "departmentName": "Tech"
+  }
+]
